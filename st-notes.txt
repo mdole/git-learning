@@ -1,0 +1,9 @@
+Sailthru JavaScript 
+	⁃	Set up new Browse Abandon flow natively within Sailthru for Auctions
+	⁃	Explore pageview data to natively build lists for:
+	⁃	Monday auctions closing
+	⁃	Consignments (auction results pageviewers)
+	⁃	F100
+	2.	Content Review (realtime solution for API calls)
+	⁃	Submit Jira ticket for Fairs issue
+	⁃	Link to previous tickets to artworks and auct
