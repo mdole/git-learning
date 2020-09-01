@@ -1,8 +1,9 @@
 # Git Learning
 
 - This is a repo for learning about git
-- It's only for learning purposes
 
 ## Smaller header
 
-### Even smaller header
+Oop we should really add some more content!!
+
+And we added something new here!
